@@ -16,8 +16,9 @@ Java 8 или выше
  ```bash
 javac -d bin src/org/example/SecureJarHandler.java
 ```
-#Использование
-Шаг 1: Генерация ключа и шифрование JAR-файла
+
+# Шаг 1: Генерация ключа и шифрование JAR-файла
+
 Запустите программу, чтобы зашифровать ваш JAR-файл:
 ```bash
 java -cp bin org.example.SecureJarHandler
