@@ -28,10 +28,10 @@ java -cp bin org.example.SecureJarHandler
 
 После выполнения программы, на вашем компьютере будут созданы следующие файлы:
 
-test.jar - исходный JAR-файл.
+`test.jar - исходный JAR-файл.
 encrypted_file.dat - зашифрованный JAR-файл.
 secret.key - файл, содержащий сгенерированный AES-ключ.
-re_encrypted_test.jar - повторно зашифрованный JAR-файл.
+re_encrypted_test.jar - повторно зашифрованный JAR-файл.`
 
 # Шаг 3: Настройка путей
 
